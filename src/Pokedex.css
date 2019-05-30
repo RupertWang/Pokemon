@@ -1,0 +1,11 @@
+.Pokedex{
+    text-align: center;
+}
+
+.Pokedex-winner{
+    color: red;
+}
+
+.Pokedex-loser{
+    color: green;
+}
